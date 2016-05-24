@@ -1,0 +1,25 @@
+{
+  "name": "grunt_fed15",
+  "version": "1.0.0",
+  "description": "Exempellektion i Grunt",
+  "main": "index.js",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "matchdep": "^1.0.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^6.3.6",
+    "cssnano": "^3.5.2",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-jscs": "^2.8.0",
+    "grunt-postcss": "^0.8.0",
+    "jscs": "^2.11.0",
+    "pixrem": "^3.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Erik Lovenstad",
+  "license": "ISC"
+}

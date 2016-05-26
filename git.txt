@@ -1,5 +1,4 @@
 git checkout -- info.txt (tar bort senaste commiten av den filen)
-//test
 git reset HEAD info.txt (ingen aning) 
 git commit -a (committa alla filer)
 git push origin master (pusha allt. får en fråga om anv och lösenord)
@@ -8,4 +7,4 @@ git checkout master (gå till master branch om man har branchat)
 git checkout *branchnamn- utan stjärnor*(gå till branch)
 //se alltid till att ha working directory ren annars vet man inte var koden krockar.
 git diff (see olikheter mellan filerna i konflikter, okommittade filer mot kommitade filer.)
-
+//testar
